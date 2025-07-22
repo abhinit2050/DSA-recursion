@@ -9,5 +9,5 @@ function calculateFactorial(n){
     }
 }
 
-const res = calculateFactorial(11)
+const res = calculateFactorial(0)
 console.log(res); 
