@@ -5,7 +5,7 @@
 var fib = function(n) {
     let res=0;
     
-    if(n<0){return "Number should be an integer and greater than or equal to 0"}
+    if(n<0){return "Number should be a non negative integer"}
    
     if(n == 0 || n==1){ return n}
 
